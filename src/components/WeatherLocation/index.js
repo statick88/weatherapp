@@ -22,9 +22,7 @@ class WeatherLocation extends Component{
     }
 
     handleUpdateClick = ()=>{
-        this.setState({
-            data:{}
-        });
+        this.setState({});
     }
 
     render = ()=>{
