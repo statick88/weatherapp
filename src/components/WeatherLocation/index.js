@@ -23,12 +23,7 @@ class WeatherLocation extends Component{
 
     handleUpdateClick = ()=>{
         this.setState({
-            data:{
-                temperature:20,
-                weatherState:"snow",
-                humidity:8,
-                wind:"12m/s"
-            }
+            data:{}
         });
     }
 
