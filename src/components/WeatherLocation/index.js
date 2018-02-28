@@ -7,7 +7,7 @@ const data = {
     temperature: 25,
     weatherState: "day-sunny",
     humidity: 10,
-    wind: "10m/s"
+    wind: "12m/s"
 }
 
 class WeatherLocation extends Component{
